@@ -1,3 +1,5 @@
-# Readme
-##WS.45.65..
-_This text is italicized_
+Some basic Git commands are:
+```
+Yes
+NO
+```
