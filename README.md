@@ -1524,7 +1524,8 @@ More details here: https://curl.se/docs/sslcerts.html
 
 curl failed to verify the legitimacy of the server and therefore could not
 establish a secure connection to it. To learn more about this situation and
-how to fix it, please visit the web page mentioned above.```
+how to fix it, please visit the web page mentioned above.
+```
 
 > Якщо використано альтернативний спосіб із параметром `--resolve` — зазначити це та навести фактичну команду.
 
@@ -1635,7 +1636,7 @@ how to fix it, please visit the web page mentioned above.```
 
 | Система | Версія або модель | Період використання |
 |---|---|---|
-| Chatgpt| | |
+| Chatgpt|GPT-5.6 Luna | A3;Висновок;Частина B;Контрольні питання|
 
 ### Промпти
 
